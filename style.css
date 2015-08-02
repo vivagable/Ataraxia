@@ -1,0 +1,25 @@
+html,body {
+  margin:0;
+  padding:0;
+}
+.header{
+ background-color: #7A007A
+}
+.nav li{
+  display:inline;
+  padding: 0;
+}
+.nav li a{
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.logo a{
+  float: right;
+}
+.main{
+  height:800px;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg');
+}
