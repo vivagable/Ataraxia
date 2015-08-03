@@ -3,10 +3,15 @@ html,body {
   padding:0;
 }
 .header{
- background: linear-gradient(to right,rgba(122, 0, 122, 1),rgba(122, 0, 122, .22));
+ background: linear-gradient(to right,rgba(122, 0, 122, 1),rgba(122, 0, 122, 0));
  position: fixed;
- width: 900px;
+ width: 1800px;
  height:40px;
+ margin-top:20px;
+
+}
+.header .logo{
+  width:900px;
 }
 .blip li{
   display:inline;
@@ -17,6 +22,13 @@ html,body {
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 16px;
+}
+.container{
+  float:left;
+  font-family: fantasy;
+  font-weight: 400;
+  color: blue;
+  margin-top: 60px;
 }
 
 .header .logo{
