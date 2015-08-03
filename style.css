@@ -3,7 +3,7 @@ html,body {
   padding:0;
 }
 .header{
- background-color: #7A007A;
+ background: linear-gradient(to right,rgba(122, 0, 122, 1),rgba(122, 0, 122, .22));
  position: fixed;
  width: 900px;
  height:40px;
