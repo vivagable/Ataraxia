@@ -1,0 +1,23 @@
+body{margin-left: 5%;}
+h4 {color:blue;}
+h1, hr {margin-left:-2.5%;}
+h1 {line-height:5%;}
+
+p {positon:absolute;
+  margin-left:60%}
+
+#john {
+      position: relative;
+      width: 90%;
+      }
+
+#aviv {
+      position: relative;
+      width: 90%;
+      background-color: #FFFFCC;
+      }
+
+#shekhar {
+         position: relative;
+         width: 90%;
+         }
